@@ -26,4 +26,4 @@ runs:
   main: 'dist/index.js'
 branding:
   icon: 'arrow-up-circle'
-  color: 'blue'
+  color: 'skyblue'
